@@ -7,3 +7,7 @@ Stuff you need to know with Planning Algorithm
            Dijkstra
            A*
 
+Dynamic Programming
+Optimization -- Quantic Programming
+
+
