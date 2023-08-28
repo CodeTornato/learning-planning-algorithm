@@ -7,6 +7,7 @@ Stuff you need to know with Planning Algorithm
            Dijkstra
            A*
 
+Convex Space ?
 Dynamic Programming  
     --  cost function
 Optimization -- Quantic Programming
