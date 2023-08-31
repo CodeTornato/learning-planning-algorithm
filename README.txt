@@ -6,8 +6,7 @@ Stuff you need to know with Planning Algorithm
 
            Dijkstra
            A*
-
-
+           D*
 
 
 Convex Space ?
