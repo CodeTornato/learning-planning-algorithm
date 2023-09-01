@@ -5,7 +5,7 @@ Stuff you need to know with Planning Algorithm
            bidirectional search
 
            Dijkstra
-           A*
+           A*(A stand for Admissible Heuristic base on Dijkstra algorithms I guess)
            D*
 
 
