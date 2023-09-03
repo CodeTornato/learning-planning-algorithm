@@ -26,6 +26,8 @@ Optimization -- Quantic Programming
 
 
 control: 
+         MPC
+
 
 
 
