@@ -25,6 +25,8 @@ Dynamic Programming
 Optimization -- Quantic Programming
 
 
+control: 
+
 
 
 Control: MPC 
