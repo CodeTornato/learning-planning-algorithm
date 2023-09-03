@@ -27,6 +27,7 @@ Optimization -- Quantic Programming
 
 control: 
          MPC
+         Feed-Back Control
 
 
 
