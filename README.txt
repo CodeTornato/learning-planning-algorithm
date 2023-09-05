@@ -30,7 +30,7 @@ control:
          Feed-Back Control
          PID
          LQR?
-
+         RPM?
 
 
 
