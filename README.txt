@@ -31,8 +31,3 @@ control:
          PID
          LQR?
          RPM?
-
-
-
-Control: MPC 
-         RPM?
