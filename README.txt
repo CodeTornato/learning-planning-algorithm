@@ -22,6 +22,7 @@ Convex Space ?
 Dynamic Programming  
     --  cost function
 
+
 Optimization -- Quantic Programming
 
 
