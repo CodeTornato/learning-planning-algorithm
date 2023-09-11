@@ -7,7 +7,6 @@ Pre-require math skill:
             Calculas
             Probility
 
-
  Path Searching - forward search
            backward search
            bidirectional search
