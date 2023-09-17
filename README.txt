@@ -6,6 +6,7 @@ Pre-require math skill:
             Linear Algebra
             Calculas
             Probility
+            Statistic
             Topology?
             Geometry?
 
