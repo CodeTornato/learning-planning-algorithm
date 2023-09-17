@@ -6,6 +6,8 @@ Pre-require math skill:
             Linear Algebra
             Calculas
             Probility
+            Topology?
+            Geometry?
 
  Path Searching - forward search
            backward search
