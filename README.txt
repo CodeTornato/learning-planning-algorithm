@@ -31,7 +31,6 @@ control:
          MPC
          Feed-Back Control
          PID
-         LQR?
          
 
 
