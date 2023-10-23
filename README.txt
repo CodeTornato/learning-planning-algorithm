@@ -14,7 +14,7 @@ Pre-require math skill:
            backward search
            bidirectional search
 
-           Dijkstra
+           Dijkstra   - -
            A*(A stand for Admissible Heuristic base on Dijkstra algorithms I guess)
            D*
 
