@@ -20,6 +20,8 @@ Pre-require math skill:
            sample base 
                  -- PRM probabilistic road map
                  -- PRM*
+                 -- RRT
+                 -- RRT*
 
 
 Convex Space ?
