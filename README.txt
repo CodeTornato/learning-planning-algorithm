@@ -22,6 +22,7 @@ Pre-require math skill:
                  -- PRM*
                  -- RRT
                  -- RRT*
+                 -- FMT
 
 
 Convex Space ?
