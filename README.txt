@@ -17,6 +17,9 @@ Pre-require math skill:
            Dijkstra   - -
            A*(A stand for Admissible Heuristic base on Dijkstra algorithms I guess)
            D*
+           sample base 
+                 -- PRM probabilistic road map
+                 -- PRM*
 
 
 Convex Space ?
