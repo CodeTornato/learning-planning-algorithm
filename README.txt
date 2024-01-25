@@ -25,7 +25,7 @@ Pre-require math skill:
                  -- FMT
 
 
-Convex Space ?
+Convex Space 
 
 Dynamic Programming  
     --  cost function
