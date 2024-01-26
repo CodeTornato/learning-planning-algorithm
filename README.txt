@@ -1,6 +1,5 @@
 Stuff you need to know with Planning Algorithm
 
-
 Pre-require math skill:
 
             Linear Algebra
