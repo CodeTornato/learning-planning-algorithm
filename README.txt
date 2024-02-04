@@ -6,7 +6,7 @@ Pre-require math skill:
             Calculas
             Probility
             Statistic?
-            Topology?
+            Topology
             Geometry
 
  Path Searching - forward search
