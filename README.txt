@@ -26,7 +26,9 @@ Pre-require math skill:
 Convex Space 
 
 Dynamic Programming  
-    --  cost function
+    --  cost function 
+          -- SAFETY COST
+          -- REF COST
 
 
 Optimization -- Quantic Programming
